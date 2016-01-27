@@ -1,0 +1,39 @@
+Important about Mid-Term Examination:
+
+
+
+1) Digital Computer Electronics:-
+Chapter no
+1
+2
+3
+5
+
+2) Compiler Construction:-
+1 Tiny Compiler
+2 Lexical Analyzer
+3 Grammer
+4 Intermediate coding
+5 Examples (Class Coding)
+
+3) Digital Logical Design:-
+1 Conversion
+2 Gates
+3 Registers And Defination
+
+4) Data Communication:
+1 OSI Layer(May be 2-3 Questions)
+2 T1 & T3 Lines
+3 ATM
+4 What is Telecommunication?
+5 what are the components of Data Communication?
+6 Network Key Issues?
+7 Throughput & Latetency
+8 Network Topologies(Bus, ring, Star, Mesh & Hybride)
+
+5) Relational Database Managements System(RDBMS)
+
+everything is Important (hahhaha)
+
+Regards:
+Muhammad Rehan Khan(colleague)
